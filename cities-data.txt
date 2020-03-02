@@ -1,0 +1,24 @@
+karachi = {
+    lattitude : 24.8607
+    longitude : 67.0011
+}
+
+lahore = {
+    lattitude : 31.5204
+    longitude : 74.3587
+}
+
+peshawar = {
+    lattitude : 34.0151
+    longitude : 71.5249
+}
+
+Quetta = {
+    lattitude : 30.1798
+    longitude : 66.9750
+}
+
+islamabad = {
+    lattitude : 
+    longitude :
+}
